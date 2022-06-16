@@ -35,7 +35,7 @@
 
 ## 💻 Sobre o projeto
 
-Preveja seu Futuro - O Preveja seu Futuro é uma aplicação web, que ajudam as pessoas a terem respostas do que pode acontecer no futuro, de acordo com suas perguntas. Neste projeto utilizei HTML, CSS e JAVASCRIPT.
+Preveja seu Futuro - O Preveja seu Futuro é uma aplicação web, que ajuda as pessoas a terem respostas do que pode acontecer no futuro, de acordo com suas perguntas. Neste projeto utilizei HTML, CSS e JAVASCRIPT.
 ---
 
 ## ⚙️ Funcionalidades
